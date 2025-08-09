@@ -1,0 +1,722 @@
+[
+  {
+    "Weekend":1,
+    "Leg":1,
+    "Home Team":"Cklein Stars",
+    "Away Team":"Wolves FC",
+    "Stadium":"Cklein Arena",
+    "Town":"Nairobi"
+  },
+  {
+    "Weekend":1,
+    "Leg":1,
+    "Home Team":"Eagles FC",
+    "Away Team":"Rhinos FC",
+    "Stadium":"Eagle Nest",
+    "Town":"Nairobi"
+  },
+  {
+    "Weekend":2,
+    "Leg":1,
+    "Home Team":"Cklein Stars",
+    "Away Team":"Dolphins FC",
+    "Stadium":"Cklein Arena",
+    "Town":"Nairobi"
+  },
+  {
+    "Weekend":2,
+    "Leg":1,
+    "Home Team":"Lions FC",
+    "Away Team":"Rhinos FC",
+    "Stadium":"Lions Park",
+    "Town":"Nairobi"
+  },
+  {
+    "Weekend":3,
+    "Leg":1,
+    "Home Team":"Cklein Stars",
+    "Away Team":"Buffaloes FC",
+    "Stadium":"Cklein Arena",
+    "Town":"Nairobi"
+  },
+  {
+    "Weekend":3,
+    "Leg":1,
+    "Home Team":"Dolphins FC",
+    "Away Team":"Cheetahs FC",
+    "Stadium":"Dolphin Stadium",
+    "Town":"Mombasa"
+  },
+  {
+    "Weekend":4,
+    "Leg":1,
+    "Home Team":"Sea Horses FC",
+    "Away Team":"Eagles FC",
+    "Stadium":"Sea Arena",
+    "Town":"Mombasa"
+  },
+  {
+    "Weekend":4,
+    "Leg":1,
+    "Home Team":"Sharks FC",
+    "Away Team":"Rhinos FC",
+    "Stadium":"Shark Tank",
+    "Town":"Kisumu"
+  },
+  {
+    "Weekend":5,
+    "Leg":1,
+    "Home Team":"Cklein Stars",
+    "Away Team":"Sea Horses FC",
+    "Stadium":"Cklein Arena",
+    "Town":"Nairobi"
+  },
+  {
+    "Weekend":5,
+    "Leg":1,
+    "Home Team":"Rhinos FC",
+    "Away Team":"Buffaloes FC",
+    "Stadium":"Rhino Ground",
+    "Town":"Nakuru"
+  },
+  {
+    "Weekend":6,
+    "Leg":1,
+    "Home Team":"Dolphins FC",
+    "Away Team":"Rhinos FC",
+    "Stadium":"Dolphin Stadium",
+    "Town":"Mombasa"
+  },
+  {
+    "Weekend":6,
+    "Leg":1,
+    "Home Team":"Sea Horses FC",
+    "Away Team":"Lions FC",
+    "Stadium":"Sea Arena",
+    "Town":"Mombasa"
+  },
+  {
+    "Weekend":7,
+    "Leg":1,
+    "Home Team":"Lions FC",
+    "Away Team":"Sharks FC",
+    "Stadium":"Lions Park",
+    "Town":"Nairobi"
+  },
+  {
+    "Weekend":7,
+    "Leg":1,
+    "Home Team":"Sea Horses FC",
+    "Away Team":"Rhinos FC",
+    "Stadium":"Sea Arena",
+    "Town":"Mombasa"
+  },
+  {
+    "Weekend":8,
+    "Leg":1,
+    "Home Team":"Wolves FC",
+    "Away Team":"Sharks FC",
+    "Stadium":"Wolves Den",
+    "Town":"Mombasa"
+  },
+  {
+    "Weekend":8,
+    "Leg":1,
+    "Home Team":"Lions FC",
+    "Away Team":"Buffaloes FC",
+    "Stadium":"Lions Park",
+    "Town":"Nairobi"
+  },
+  {
+    "Weekend":9,
+    "Leg":1,
+    "Home Team":"Wolves FC",
+    "Away Team":"Lions FC",
+    "Stadium":"Wolves Den",
+    "Town":"Mombasa"
+  },
+  {
+    "Weekend":9,
+    "Leg":1,
+    "Home Team":"Dolphins FC",
+    "Away Team":"Sharks FC",
+    "Stadium":"Dolphin Stadium",
+    "Town":"Mombasa"
+  },
+  {
+    "Weekend":10,
+    "Leg":1,
+    "Home Team":"Sharks FC",
+    "Away Team":"Eagles FC",
+    "Stadium":"Shark Tank",
+    "Town":"Kisumu"
+  },
+  {
+    "Weekend":10,
+    "Leg":1,
+    "Home Team":"Sea Horses FC",
+    "Away Team":"Cheetahs FC",
+    "Stadium":"Sea Arena",
+    "Town":"Mombasa"
+  },
+  {
+    "Weekend":11,
+    "Leg":1,
+    "Home Team":"Cklein Stars",
+    "Away Team":"Sharks FC",
+    "Stadium":"Cklein Arena",
+    "Town":"Nairobi"
+  },
+  {
+    "Weekend":11,
+    "Leg":1,
+    "Home Team":"Wolves FC",
+    "Away Team":"Cheetahs FC",
+    "Stadium":"Wolves Den",
+    "Town":"Mombasa"
+  },
+  {
+    "Weekend":12,
+    "Leg":1,
+    "Home Team":"Lions FC",
+    "Away Team":"Cheetahs FC",
+    "Stadium":"Lions Park",
+    "Town":"Nairobi"
+  },
+  {
+    "Weekend":12,
+    "Leg":1,
+    "Home Team":"Cklein Stars",
+    "Away Team":"Rhinos FC",
+    "Stadium":"Cklein Arena",
+    "Town":"Nairobi"
+  },
+  {
+    "Weekend":13,
+    "Leg":1,
+    "Home Team":"Eagles FC",
+    "Away Team":"Cheetahs FC",
+    "Stadium":"Eagle Nest",
+    "Town":"Nairobi"
+  },
+  {
+    "Weekend":13,
+    "Leg":1,
+    "Home Team":"Sea Horses FC",
+    "Away Team":"Buffaloes FC",
+    "Stadium":"Sea Arena",
+    "Town":"Mombasa"
+  },
+  {
+    "Weekend":14,
+    "Leg":1,
+    "Home Team":"Wolves FC",
+    "Away Team":"Eagles FC",
+    "Stadium":"Wolves Den",
+    "Town":"Mombasa"
+  },
+  {
+    "Weekend":14,
+    "Leg":1,
+    "Home Team":"Cheetahs FC",
+    "Away Team":"Buffaloes FC",
+    "Stadium":"Cheetah Field",
+    "Town":"Nakuru"
+  },
+  {
+    "Weekend":15,
+    "Leg":1,
+    "Home Team":"Dolphins FC",
+    "Away Team":"Eagles FC",
+    "Stadium":"Dolphin Stadium",
+    "Town":"Mombasa"
+  },
+  {
+    "Weekend":15,
+    "Leg":1,
+    "Home Team":"Sharks FC",
+    "Away Team":"Cheetahs FC",
+    "Stadium":"Shark Tank",
+    "Town":"Kisumu"
+  },
+  {
+    "Weekend":16,
+    "Leg":1,
+    "Home Team":"Dolphins FC",
+    "Away Team":"Lions FC",
+    "Stadium":"Dolphin Stadium",
+    "Town":"Mombasa"
+  },
+  {
+    "Weekend":16,
+    "Leg":1,
+    "Home Team":"Sea Horses FC",
+    "Away Team":"Sharks FC",
+    "Stadium":"Sea Arena",
+    "Town":"Mombasa"
+  },
+  {
+    "Weekend":17,
+    "Leg":1,
+    "Home Team":"Dolphins FC",
+    "Away Team":"Buffaloes FC",
+    "Stadium":"Dolphin Stadium",
+    "Town":"Mombasa"
+  },
+  {
+    "Weekend":17,
+    "Leg":1,
+    "Home Team":"Wolves FC",
+    "Away Team":"Rhinos FC",
+    "Stadium":"Wolves Den",
+    "Town":"Mombasa"
+  },
+  {
+    "Weekend":18,
+    "Leg":1,
+    "Home Team":"Wolves FC",
+    "Away Team":"Buffaloes FC",
+    "Stadium":"Wolves Den",
+    "Town":"Mombasa"
+  },
+  {
+    "Weekend":18,
+    "Leg":1,
+    "Home Team":"Cklein Stars",
+    "Away Team":"Cheetahs FC",
+    "Stadium":"Cklein Arena",
+    "Town":"Nairobi"
+  },
+  {
+    "Weekend":19,
+    "Leg":1,
+    "Home Team":"Eagles FC",
+    "Away Team":"Buffaloes FC",
+    "Stadium":"Eagle Nest",
+    "Town":"Nairobi"
+  },
+  {
+    "Weekend":19,
+    "Leg":1,
+    "Home Team":"Cheetahs FC",
+    "Away Team":"Rhinos FC",
+    "Stadium":"Cheetah Field",
+    "Town":"Nakuru"
+  },
+  {
+    "Weekend":20,
+    "Leg":1,
+    "Home Team":"Cklein Stars",
+    "Away Team":"Eagles FC",
+    "Stadium":"Cklein Arena",
+    "Town":"Nairobi"
+  },
+  {
+    "Weekend":20,
+    "Leg":1,
+    "Home Team":"Wolves FC",
+    "Away Team":"Sea Horses FC",
+    "Stadium":"Wolves Den",
+    "Town":"Mombasa"
+  },
+  {
+    "Weekend":21,
+    "Leg":1,
+    "Home Team":"Cklein Stars",
+    "Away Team":"Lions FC",
+    "Stadium":"Cklein Arena",
+    "Town":"Nairobi"
+  },
+  {
+    "Weekend":21,
+    "Leg":1,
+    "Home Team":"Sharks FC",
+    "Away Team":"Buffaloes FC",
+    "Stadium":"Shark Tank",
+    "Town":"Kisumu"
+  },
+  {
+    "Weekend":22,
+    "Leg":1,
+    "Home Team":"Dolphins FC",
+    "Away Team":"Wolves FC",
+    "Stadium":"Dolphin Stadium",
+    "Town":"Mombasa"
+  },
+  {
+    "Weekend":22,
+    "Leg":1,
+    "Home Team":"Lions FC",
+    "Away Team":"Eagles FC",
+    "Stadium":"Lions Park",
+    "Town":"Nairobi"
+  },
+  {
+    "Weekend":23,
+    "Leg":2,
+    "Home Team":"Dolphins FC",
+    "Away Team":"Sea Horses FC",
+    "Stadium":"Dolphin Stadium",
+    "Town":"Mombasa"
+  },
+  {
+    "Weekend":23,
+    "Leg":2,
+    "Home Team":"Wolves FC",
+    "Away Team":"Cklein Stars",
+    "Stadium":"Wolves Den",
+    "Town":"Mombasa"
+  },
+  {
+    "Weekend":24,
+    "Leg":2,
+    "Home Team":"Dolphins FC",
+    "Away Team":"Cklein Stars",
+    "Stadium":"Dolphin Stadium",
+    "Town":"Mombasa"
+  },
+  {
+    "Weekend":24,
+    "Leg":2,
+    "Home Team":"Lions FC",
+    "Away Team":"Wolves FC",
+    "Stadium":"Lions Park",
+    "Town":"Nairobi"
+  },
+  {
+    "Weekend":25,
+    "Leg":2,
+    "Home Team":"Sea Horses FC",
+    "Away Team":"Cklein Stars",
+    "Stadium":"Sea Arena",
+    "Town":"Mombasa"
+  },
+  {
+    "Weekend":25,
+    "Leg":2,
+    "Home Team":"Lions FC",
+    "Away Team":"Dolphins FC",
+    "Stadium":"Lions Park",
+    "Town":"Nairobi"
+  },
+  {
+    "Weekend":26,
+    "Leg":2,
+    "Home Team":"Sharks FC",
+    "Away Team":"Cklein Stars",
+    "Stadium":"Shark Tank",
+    "Town":"Kisumu"
+  },
+  {
+    "Weekend":26,
+    "Leg":2,
+    "Home Team":"Eagles FC",
+    "Away Team":"Dolphins FC",
+    "Stadium":"Eagle Nest",
+    "Town":"Nairobi"
+  },
+  {
+    "Weekend":27,
+    "Leg":2,
+    "Home Team":"Cheetahs FC",
+    "Away Team":"Cklein Stars",
+    "Stadium":"Cheetah Field",
+    "Town":"Nakuru"
+  },
+  {
+    "Weekend":27,
+    "Leg":2,
+    "Home Team":"Sharks FC",
+    "Away Team":"Dolphins FC",
+    "Stadium":"Shark Tank",
+    "Town":"Kisumu"
+  },
+  {
+    "Weekend":28,
+    "Leg":2,
+    "Home Team":"Rhinos FC",
+    "Away Team":"Cklein Stars",
+    "Stadium":"Rhino Ground",
+    "Town":"Nakuru"
+  },
+  {
+    "Weekend":28,
+    "Leg":2,
+    "Home Team":"Cheetahs FC",
+    "Away Team":"Dolphins FC",
+    "Stadium":"Cheetah Field",
+    "Town":"Nakuru"
+  },
+  {
+    "Weekend":29,
+    "Leg":2,
+    "Home Team":"Buffaloes FC",
+    "Away Team":"Cklein Stars",
+    "Stadium":"Buffalo Stadium",
+    "Town":"Kisumu"
+  },
+  {
+    "Weekend":29,
+    "Leg":2,
+    "Home Team":"Rhinos FC",
+    "Away Team":"Dolphins FC",
+    "Stadium":"Rhino Ground",
+    "Town":"Nakuru"
+  },
+  {
+    "Weekend":30,
+    "Leg":2,
+    "Home Team":"Buffaloes FC",
+    "Away Team":"Dolphins FC",
+    "Stadium":"Buffalo Stadium",
+    "Town":"Kisumu"
+  },
+  {
+    "Weekend":30,
+    "Leg":2,
+    "Home Team":"Sharks FC",
+    "Away Team":"Wolves FC",
+    "Stadium":"Shark Tank",
+    "Town":"Kisumu"
+  },
+  {
+    "Weekend":31,
+    "Leg":2,
+    "Home Team":"Eagles FC",
+    "Away Team":"Wolves FC",
+    "Stadium":"Eagle Nest",
+    "Town":"Nairobi"
+  },
+  {
+    "Weekend":31,
+    "Leg":2,
+    "Home Team":"Lions FC",
+    "Away Team":"Sea Horses FC",
+    "Stadium":"Lions Park",
+    "Town":"Nairobi"
+  },
+  {
+    "Weekend":32,
+    "Leg":2,
+    "Home Team":"Cheetahs FC",
+    "Away Team":"Wolves FC",
+    "Stadium":"Cheetah Field",
+    "Town":"Nakuru"
+  },
+  {
+    "Weekend":32,
+    "Leg":2,
+    "Home Team":"Sharks FC",
+    "Away Team":"Sea Horses FC",
+    "Stadium":"Shark Tank",
+    "Town":"Kisumu"
+  },
+  {
+    "Weekend":33,
+    "Leg":2,
+    "Home Team":"Rhinos FC",
+    "Away Team":"Wolves FC",
+    "Stadium":"Rhino Ground",
+    "Town":"Nakuru"
+  },
+  {
+    "Weekend":33,
+    "Leg":2,
+    "Home Team":"Eagles FC",
+    "Away Team":"Sea Horses FC",
+    "Stadium":"Eagle Nest",
+    "Town":"Nairobi"
+  },
+  {
+    "Weekend":34,
+    "Leg":2,
+    "Home Team":"Buffaloes FC",
+    "Away Team":"Wolves FC",
+    "Stadium":"Buffalo Stadium",
+    "Town":"Kisumu"
+  },
+  {
+    "Weekend":34,
+    "Leg":2,
+    "Home Team":"Cheetahs FC",
+    "Away Team":"Sea Horses FC",
+    "Stadium":"Cheetah Field",
+    "Town":"Nakuru"
+  },
+  {
+    "Weekend":35,
+    "Leg":2,
+    "Home Team":"Rhinos FC",
+    "Away Team":"Sea Horses FC",
+    "Stadium":"Rhino Ground",
+    "Town":"Nakuru"
+  },
+  {
+    "Weekend":35,
+    "Leg":2,
+    "Home Team":"Sharks FC",
+    "Away Team":"Lions FC",
+    "Stadium":"Shark Tank",
+    "Town":"Kisumu"
+  },
+  {
+    "Weekend":36,
+    "Leg":2,
+    "Home Team":"Buffaloes FC",
+    "Away Team":"Sea Horses FC",
+    "Stadium":"Buffalo Stadium",
+    "Town":"Kisumu"
+  },
+  {
+    "Weekend":36,
+    "Leg":2,
+    "Home Team":"Cheetahs FC",
+    "Away Team":"Lions FC",
+    "Stadium":"Cheetah Field",
+    "Town":"Nakuru"
+  },
+  {
+    "Weekend":37,
+    "Leg":2,
+    "Home Team":"Rhinos FC",
+    "Away Team":"Lions FC",
+    "Stadium":"Rhino Ground",
+    "Town":"Nakuru"
+  },
+  {
+    "Weekend":37,
+    "Leg":2,
+    "Home Team":"Eagles FC",
+    "Away Team":"Sharks FC",
+    "Stadium":"Eagle Nest",
+    "Town":"Nairobi"
+  },
+  {
+    "Weekend":38,
+    "Leg":2,
+    "Home Team":"Buffaloes FC",
+    "Away Team":"Lions FC",
+    "Stadium":"Buffalo Stadium",
+    "Town":"Kisumu"
+  },
+  {
+    "Weekend":38,
+    "Leg":2,
+    "Home Team":"Cheetahs FC",
+    "Away Team":"Sharks FC",
+    "Stadium":"Cheetah Field",
+    "Town":"Nakuru"
+  },
+  {
+    "Weekend":39,
+    "Leg":2,
+    "Home Team":"Rhinos FC",
+    "Away Team":"Sharks FC",
+    "Stadium":"Rhino Ground",
+    "Town":"Nakuru"
+  },
+  {
+    "Weekend":39,
+    "Leg":2,
+    "Home Team":"Cheetahs FC",
+    "Away Team":"Eagles FC",
+    "Stadium":"Cheetah Field",
+    "Town":"Nakuru"
+  },
+  {
+    "Weekend":40,
+    "Leg":2,
+    "Home Team":"Rhinos FC",
+    "Away Team":"Eagles FC",
+    "Stadium":"Rhino Ground",
+    "Town":"Nakuru"
+  },
+  {
+    "Weekend":40,
+    "Leg":2,
+    "Home Team":"Buffaloes FC",
+    "Away Team":"Cheetahs FC",
+    "Stadium":"Buffalo Stadium",
+    "Town":"Kisumu"
+  },
+  {
+    "Weekend":41,
+    "Leg":2,
+    "Home Team":"Buffaloes FC",
+    "Away Team":"Eagles FC",
+    "Stadium":"Buffalo Stadium",
+    "Town":"Kisumu"
+  },
+  {
+    "Weekend":41,
+    "Leg":2,
+    "Home Team":"Lions FC",
+    "Away Team":"Cklein Stars",
+    "Stadium":"Lions Park",
+    "Town":"Nairobi"
+  },
+  {
+    "Weekend":42,
+    "Leg":2,
+    "Home Team":"Buffaloes FC",
+    "Away Team":"Rhinos FC",
+    "Stadium":"Buffalo Stadium",
+    "Town":"Kisumu"
+  },
+  {
+    "Weekend":42,
+    "Leg":2,
+    "Home Team":"Eagles FC",
+    "Away Team":"Cklein Stars",
+    "Stadium":"Eagle Nest",
+    "Town":"Nairobi"
+  },
+  {
+    "Weekend":43,
+    "Leg":2,
+    "Home Team":"Wolves FC",
+    "Away Team":"Dolphins FC",
+    "Stadium":"Wolves Den",
+    "Town":"Mombasa"
+  },
+  {
+    "Weekend":43,
+    "Leg":2,
+    "Home Team":"Eagles FC",
+    "Away Team":"Lions FC",
+    "Stadium":"Eagle Nest",
+    "Town":"Nairobi"
+  },
+  {
+    "Weekend":44,
+    "Leg":2,
+    "Home Team":"Sea Horses FC",
+    "Away Team":"Dolphins FC",
+    "Stadium":"Sea Arena",
+    "Town":"Mombasa"
+  },
+  {
+    "Weekend":44,
+    "Leg":2,
+    "Home Team":"Buffaloes FC",
+    "Away Team":"Sharks FC",
+    "Stadium":"Buffalo Stadium",
+    "Town":"Kisumu"
+  },
+  {
+    "Weekend":45,
+    "Leg":2,
+    "Home Team":"Sea Horses FC",
+    "Away Team":"Wolves FC",
+    "Stadium":"Sea Arena",
+    "Town":"Mombasa"
+  },
+  {
+    "Weekend":45,
+    "Leg":2,
+    "Home Team":"Rhinos FC",
+    "Away Team":"Cheetahs FC",
+    "Stadium":"Rhino Ground",
+    "Town":"Nakuru"
+  }
+]

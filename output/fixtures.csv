@@ -1,0 +1,91 @@
+Weekend,Leg,Home Team,Away Team,Stadium,Town
+1,1,Cklein Stars,Wolves FC,Cklein Arena,Nairobi
+1,1,Eagles FC,Rhinos FC,Eagle Nest,Nairobi
+2,1,Cklein Stars,Dolphins FC,Cklein Arena,Nairobi
+2,1,Lions FC,Rhinos FC,Lions Park,Nairobi
+3,1,Cklein Stars,Buffaloes FC,Cklein Arena,Nairobi
+3,1,Dolphins FC,Cheetahs FC,Dolphin Stadium,Mombasa
+4,1,Sea Horses FC,Eagles FC,Sea Arena,Mombasa
+4,1,Sharks FC,Rhinos FC,Shark Tank,Kisumu
+5,1,Cklein Stars,Sea Horses FC,Cklein Arena,Nairobi
+5,1,Rhinos FC,Buffaloes FC,Rhino Ground,Nakuru
+6,1,Dolphins FC,Rhinos FC,Dolphin Stadium,Mombasa
+6,1,Sea Horses FC,Lions FC,Sea Arena,Mombasa
+7,1,Lions FC,Sharks FC,Lions Park,Nairobi
+7,1,Sea Horses FC,Rhinos FC,Sea Arena,Mombasa
+8,1,Wolves FC,Sharks FC,Wolves Den,Mombasa
+8,1,Lions FC,Buffaloes FC,Lions Park,Nairobi
+9,1,Wolves FC,Lions FC,Wolves Den,Mombasa
+9,1,Dolphins FC,Sharks FC,Dolphin Stadium,Mombasa
+10,1,Sharks FC,Eagles FC,Shark Tank,Kisumu
+10,1,Sea Horses FC,Cheetahs FC,Sea Arena,Mombasa
+11,1,Cklein Stars,Sharks FC,Cklein Arena,Nairobi
+11,1,Wolves FC,Cheetahs FC,Wolves Den,Mombasa
+12,1,Lions FC,Cheetahs FC,Lions Park,Nairobi
+12,1,Cklein Stars,Rhinos FC,Cklein Arena,Nairobi
+13,1,Eagles FC,Cheetahs FC,Eagle Nest,Nairobi
+13,1,Sea Horses FC,Buffaloes FC,Sea Arena,Mombasa
+14,1,Wolves FC,Eagles FC,Wolves Den,Mombasa
+14,1,Cheetahs FC,Buffaloes FC,Cheetah Field,Nakuru
+15,1,Dolphins FC,Eagles FC,Dolphin Stadium,Mombasa
+15,1,Sharks FC,Cheetahs FC,Shark Tank,Kisumu
+16,1,Dolphins FC,Lions FC,Dolphin Stadium,Mombasa
+16,1,Sea Horses FC,Sharks FC,Sea Arena,Mombasa
+17,1,Dolphins FC,Buffaloes FC,Dolphin Stadium,Mombasa
+17,1,Wolves FC,Rhinos FC,Wolves Den,Mombasa
+18,1,Wolves FC,Buffaloes FC,Wolves Den,Mombasa
+18,1,Cklein Stars,Cheetahs FC,Cklein Arena,Nairobi
+19,1,Eagles FC,Buffaloes FC,Eagle Nest,Nairobi
+19,1,Cheetahs FC,Rhinos FC,Cheetah Field,Nakuru
+20,1,Cklein Stars,Eagles FC,Cklein Arena,Nairobi
+20,1,Wolves FC,Sea Horses FC,Wolves Den,Mombasa
+21,1,Cklein Stars,Lions FC,Cklein Arena,Nairobi
+21,1,Sharks FC,Buffaloes FC,Shark Tank,Kisumu
+22,1,Dolphins FC,Wolves FC,Dolphin Stadium,Mombasa
+22,1,Lions FC,Eagles FC,Lions Park,Nairobi
+23,2,Dolphins FC,Sea Horses FC,Dolphin Stadium,Mombasa
+23,2,Wolves FC,Cklein Stars,Wolves Den,Mombasa
+24,2,Dolphins FC,Cklein Stars,Dolphin Stadium,Mombasa
+24,2,Lions FC,Wolves FC,Lions Park,Nairobi
+25,2,Sea Horses FC,Cklein Stars,Sea Arena,Mombasa
+25,2,Lions FC,Dolphins FC,Lions Park,Nairobi
+26,2,Sharks FC,Cklein Stars,Shark Tank,Kisumu
+26,2,Eagles FC,Dolphins FC,Eagle Nest,Nairobi
+27,2,Cheetahs FC,Cklein Stars,Cheetah Field,Nakuru
+27,2,Sharks FC,Dolphins FC,Shark Tank,Kisumu
+28,2,Rhinos FC,Cklein Stars,Rhino Ground,Nakuru
+28,2,Cheetahs FC,Dolphins FC,Cheetah Field,Nakuru
+29,2,Buffaloes FC,Cklein Stars,Buffalo Stadium,Kisumu
+29,2,Rhinos FC,Dolphins FC,Rhino Ground,Nakuru
+30,2,Buffaloes FC,Dolphins FC,Buffalo Stadium,Kisumu
+30,2,Sharks FC,Wolves FC,Shark Tank,Kisumu
+31,2,Eagles FC,Wolves FC,Eagle Nest,Nairobi
+31,2,Lions FC,Sea Horses FC,Lions Park,Nairobi
+32,2,Cheetahs FC,Wolves FC,Cheetah Field,Nakuru
+32,2,Sharks FC,Sea Horses FC,Shark Tank,Kisumu
+33,2,Rhinos FC,Wolves FC,Rhino Ground,Nakuru
+33,2,Eagles FC,Sea Horses FC,Eagle Nest,Nairobi
+34,2,Buffaloes FC,Wolves FC,Buffalo Stadium,Kisumu
+34,2,Cheetahs FC,Sea Horses FC,Cheetah Field,Nakuru
+35,2,Rhinos FC,Sea Horses FC,Rhino Ground,Nakuru
+35,2,Sharks FC,Lions FC,Shark Tank,Kisumu
+36,2,Buffaloes FC,Sea Horses FC,Buffalo Stadium,Kisumu
+36,2,Cheetahs FC,Lions FC,Cheetah Field,Nakuru
+37,2,Rhinos FC,Lions FC,Rhino Ground,Nakuru
+37,2,Eagles FC,Sharks FC,Eagle Nest,Nairobi
+38,2,Buffaloes FC,Lions FC,Buffalo Stadium,Kisumu
+38,2,Cheetahs FC,Sharks FC,Cheetah Field,Nakuru
+39,2,Rhinos FC,Sharks FC,Rhino Ground,Nakuru
+39,2,Cheetahs FC,Eagles FC,Cheetah Field,Nakuru
+40,2,Rhinos FC,Eagles FC,Rhino Ground,Nakuru
+40,2,Buffaloes FC,Cheetahs FC,Buffalo Stadium,Kisumu
+41,2,Buffaloes FC,Eagles FC,Buffalo Stadium,Kisumu
+41,2,Lions FC,Cklein Stars,Lions Park,Nairobi
+42,2,Buffaloes FC,Rhinos FC,Buffalo Stadium,Kisumu
+42,2,Eagles FC,Cklein Stars,Eagle Nest,Nairobi
+43,2,Wolves FC,Dolphins FC,Wolves Den,Mombasa
+43,2,Eagles FC,Lions FC,Eagle Nest,Nairobi
+44,2,Sea Horses FC,Dolphins FC,Sea Arena,Mombasa
+44,2,Buffaloes FC,Sharks FC,Buffalo Stadium,Kisumu
+45,2,Sea Horses FC,Wolves FC,Sea Arena,Mombasa
+45,2,Rhinos FC,Cheetahs FC,Rhino Ground,Nakuru
