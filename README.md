@@ -1,16 +1,5 @@
-# fixture-generator
+# fixture-generator (Double round-robin scheduling)
 Modular Python program to generate fixtures for the ABC Premier League based on the given requirements. 
-
-Here's a comprehensive **Project Documentation** for your ABC Premier League Fixture Generator:
-
----
-
-# **ABC Premier League Fixture Generator**  
-**Group Members**: [Your Names]  
-**Version**: 1.0.0  
-**Last Updated**: [Date]  
-
----
 
 ## **1. Project Overview**  
 A Python-based application that automatically generates football fixtures for 10 teams in the ABC Premier League, adhering to league-specific constraints.  
@@ -99,28 +88,4 @@ python main.py
 | Weekend Limit | Max 2 matches (4 teams) per weekend |  
 | Stadium Assignment | Home team's stadium used |  
 
----
-
-## **6. Input/Output Examples**  
-
-**Input (`teams.csv`)**:  
-```csv
-Team,Town,Stadium
-Cklein Stars,Nairobi,Cklein Arena
-Dolphins FC,Mombasa,Dolphin Cove
-```
-
-**Output (CSV)**:  
-```csv
-Weekend,Leg,Home Team,Away Team,Stadium,Town
-1,1,Cklein Stars,Dolphins FC,Cklein Arena,Nairobi
-```
-
----
-
-## **7. Validation Reports**  
-The system generates automatic checks for:  
-- Fixture completeness (all required matches present)  
-- Town Rule violations  
-- Weekend overloading  
 
